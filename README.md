@@ -1,3 +1,5 @@
+[![Build Status](https://raw.githubusercontent.com/sllujaan/google-maps-featured/main/build/build-UNKOWN.svg)](https://github.com/sllujaan/google-maps-featured/blob/main/main.a028eb4f2539f7649522.js)&nbsp;&nbsp;[![Build Status](https://raw.githubusercontent.com/sllujaan/google-maps-featured/main/build/build-failed.svg)](https://github.com/sllujaan/google-maps-featured/blob/main/main.a028eb4f2539f7649522.js)&nbsp;&nbsp;[![Build Status](https://raw.githubusercontent.com/sllujaan/google-maps-featured/main/build/build-passing.svg)](https://github.com/sllujaan/google-maps-featured/blob/main/main.a028eb4f2539f7649522.js)&nbsp;&nbsp;[![Build Status](https://raw.githubusercontent.com/sllujaan/google-maps-featured/main/build/build-passed.svg)](https://github.com/sllujaan/google-maps-featured/blob/main/main.a028eb4f2539f7649522.js)&nbsp;&nbsp;[![Build Status](https://raw.githubusercontent.com/sllujaan/google-maps-featured/main/build/build-100%25.svg)](https://github.com/sllujaan/google-maps-featured/blob/main/main.a028eb4f2539f7649522.js)&nbsp;&nbsp;
+<br />
 # Google Maps Featured - Live:
 https://sllujaan.github.io/google-maps-featured/
 
